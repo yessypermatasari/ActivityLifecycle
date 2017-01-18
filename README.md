@@ -1,4 +1,4 @@
-# ActivityLifecycle
+# ActivityLivecycle
 <h1>Identitas Pembuat : </h1>
 <h3>Nama      : Yessy Permatasari
 <br>Kelas     : XI RPL 1
